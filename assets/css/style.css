@@ -1,0 +1,20 @@
+* {box-sizing: border-box
+}
+
+body {
+    background: url('../images/football.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;    
+}
+
+#mainContainer {
+    background-color: gold;
+    position: absolute;
+    opacity: .9;
+    width: 60%;
+    height: 80%;
+    margin-left: 20%;
+    text-align: center;
+    top: 10%;
+}
+
